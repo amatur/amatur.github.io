@@ -11,13 +11,13 @@ My most recent CV can be found [here](https://www.dropbox.com/s/f6qmz4na15q9ck3/
 You can also check my publications through [dblp](https://dblp.uni-trier.de/pers/hd/r/Rahman:Amatur) or [Google scholar](https://scholar.google.com/citations?hl=en&user=28hqEC4AAAAJ).
 
 - **Disk compression of k-mer sets.**  
-_Amatur Rahman, Rayan Chikhi and and Paul Medvedev._  WABI 2020 (accepted)
+_Amatur Rahman, Rayan Chikhi and Paul Medvedev._  WABI 2020 (accepted)
 
 - **Representation of k-mer sets using spectrum-preserving string sets.**      
-_Amatur Rahman and and Paul Medvedev._  RECOMB 2020, LNCS 12074:152-168. **(Best Paper Award)** [ [preprint] ](https://doi.org/10.1101/2020.01.07.896928)
+_Amatur Rahman and Paul Medvedev._  RECOMB 2020, LNCS 12074:152-168. **(Best Paper Award)** [ [preprint] ](https://doi.org/10.1101/2020.01.07.896928)
 
 - **kRISP-meR: A Reference-free Guide-RNA Design Tool for CRISPR/Cas9.**    
-_Mahmudur Rahman Hera, Amatur Rahman, and Atif Hasan Rahman._ bioRxiv, 2019 
+_Mahmudur Rahman Hera, Amatur Rahman and Atif Hasan Rahman._ bioRxiv, 2019 
 
 - **An Adaptive IoT Platform on Budgeted 3G Data Plans.**   
 _Mahmudur Rahman Hera, Amatur Rahman, Hua-Jun Hong, Li-Wen Pan, Md. Yusuf Sarwar Uddin, Nalini Venkatasubramanian, Cheng-Hsin Hsu._ Elsevier Journal of Systems Architecture, 2018
