@@ -32,7 +32,8 @@ _Mahmudur Rahman Hera, Amatur Rahman, Afia Afrin, Md. Yusuf Sarwar Uddin, and Na
 ## Talks
 
 - **Representation of k-mer sets using spectrum-preserving string sets**   
-Talks at * RECOMB 2020 (virtual conference), * Weekly Wednesday Wartik Genomics Lecture Series (WWWGLS) by [CCBB](https://www.ccbb.psu.edu/seminar/), Penn State.
+  - RECOMB 2020 (virtual conference) 
+  - Weekly Wednesday Wartik Genomics Lecture Series (WWWGLS) by [CCBB](https://www.ccbb.psu.edu/seminar/), Penn State.
 
 ## Softwares
 
