@@ -4,7 +4,7 @@ I am a PhD student working with with Dr. Paul Medvedev at the Department of Comp
 
 ## CV
 
-My most recent CV can be found [here](https://www.dropbox.com/s/6wdlt8yack45gw0/cv_amatur_feb20.pdf?dl=0) (last updated on July 5, 2020). 
+My most recent CV can be found [here](https://www.dropbox.com/s/f6qmz4na15q9ck3/cv_amatur_jul7.pdf?dl=0) (last updated on July 7, 2020). 
 
 ## Publications
 
