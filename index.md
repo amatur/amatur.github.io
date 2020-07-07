@@ -2,11 +2,11 @@
 
 I am a PhD student working with with Dr. Paul Medvedev at the Department of Computer Science and Engineering, Pennsylvania State University. Before joining Penn State, I obtained my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET).
 
-### CV
+## CV
 
 My most recent CV can be found [here](https://www.dropbox.com/s/6wdlt8yack45gw0/cv_amatur_feb20.pdf?dl=0) (last updated on July 5, 2020). 
 
-### Publications
+## Publications
 
 You can also check my publications through [dblp](https://dblp.uni-trier.de/pers/hd/r/Rahman:Amatur) or [Google scholar](https://scholar.google.com/citations?hl=en&user=28hqEC4AAAAJ).
 
@@ -29,15 +29,15 @@ _Mahmudur Rahman Hera, Hua-Jun Hong, Amatur Rahman, Pei-Hsuan Tsai, Afia Afrin, 
 _Mahmudur Rahman Hera, Amatur Rahman, Afia Afrin, Md. Yusuf Sarwar Uddin, and Nalini Venkatasubramanian._ In Proceedings of 2017 International Conference on Networking, Systems and Security (NSysS), Dhaka, Bangladesh, 2017
 
 
-### Talks
+## Talks
 
 - **Representation of k-mer sets using spectrum-preserving string sets**   
 Talks at * RECOMB 2020 (virtual conference), * Weekly Wednesday Wartik Genomics Lecture Series (WWWGLS) by [CCBB](https://www.ccbb.psu.edu/seminar/), Penn State.
 
-### Softwares
+## Softwares
 
 - [ESS-Compress](https://github.com/medvedevgroup/ESSCompress): compresses a set of k-mers for disk storage
 - [UST](https://github.com/medvedevgroup/UST): build a spectrum-preserving string set representation of a set of k-mers
 
-### Contact Info
+## Contact Info
 Email : aur1111 "at" psu "dot" edu
