@@ -10,11 +10,14 @@ My most recent CV can be found [here](https://www.dropbox.com/s/f6qmz4na15q9ck3/
 
 You can also check my publications through [dblp](https://dblp.uni-trier.de/pers/hd/r/Rahman:Amatur) or [Google scholar](https://scholar.google.com/citations?hl=en&user=28hqEC4AAAAJ).
 
+- **Uncovering hidden assembly artifacts: when unitigs are not safe and bidirected graphs are not helpful** 
+_Amatur Rahman and Paul Medvedev._  RECOMB 2022 (accepted). [ [preprint] ](https://doi.org/10.1101/2022.01.20.477068)[ [talk] ](https://www.youtube.com/watch?v=VxvEOmKHLHM)
+
 - **Disk compression of k-mer sets.**  
 _Amatur Rahman, Rayan Chikhi and Paul Medvedev._  WABI 2020 (accepted)
 
 - **Representation of k-mer sets using spectrum-preserving string sets.**      
-_Amatur Rahman and Paul Medvedev._  RECOMB 2020, LNCS 12074:152-168. **(Best Paper Award)** [ [preprint] ](https://doi.org/10.1101/2020.01.07.896928)
+_Amatur Rahman and Paul Medvedev._  RECOMB 2020, LNCS 12074:152-168. **(Best Paper Award)** [ [preprint] ](https://doi.org/10.1101/2020.01.07.896928)[ [talk] ](https://youtu.be/QJyTBjN71Pw)
 
 - **kRISP-meR: A Reference-free Guide-RNA Design Tool for CRISPR/Cas9.**    
 _Mahmudur Rahman Hera, Amatur Rahman and Atif Hasan Rahman._ bioRxiv, 2019 
