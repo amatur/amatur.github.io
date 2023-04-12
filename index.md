@@ -10,14 +10,32 @@ My most recent CV can be found [here](https://www.dropbox.com/s/f6qmz4na15q9ck3/
 
 You can also check my publications through [dblp](https://dblp.uni-trier.de/pers/hd/r/Rahman:Amatur) or [Google scholar](https://scholar.google.com/citations?hl=en&user=28hqEC4AAAAJ).
 
-- **Uncovering hidden assembly artifacts: when unitigs are not safe and bidirected graphs are not helpful** 
-_Amatur Rahman and Paul Medvedev._  RECOMB 2022 (accepted). [ [preprint] ](https://doi.org/10.1101/2022.01.20.477068)[ [talk] ](https://www.youtube.com/watch?v=VxvEOmKHLHM)
+- **Assembler artifacts include misassembly because of unsafe unitigs and under-assembly because of bidirected graphs** 
+Amatur Rahman and Paul Medvedev
+Genome Research, 32:1-8, 2022.
+An abstract appeared in RECOMB 2022, LNCS 13278:377–379 (Alternative title: Uncovering hidden assembly artifacts: when unitigs are not safe and bidirected graphs are not helpful.)
+[ [paper (free version)](https://doi.org/10.1101/2022.01.20.477068), [paper (journal version)](https://doi.org/10.1101/gr.276601.122) ][ [talk] ](https://www.youtube.com/watch?v=VxvEOmKHLHM)
+
+- **The K-mer File Format: a standardized and compact disk representation of sets of k-mers** 
+Y. Dufresne, T. Lemane, P. Marijon, P. Peterlongo, A. Rahman, M. Kokot, P. Medvedev, S. Deorowicz, and R. Chikhi
+Bioinformatics, btac528, 2022.
+[ [paper](https://doi.org/10.1093/bioinformatics/btac528) ]
+
+- **GPU-accelerated and pipelined methylation calling** 
+Yilin Feng, Gulsum Gudukbay Akbulut, Xulong Tang, Jashwant Raj Gunasekaran, Amatur Rahman, Paul Medvedev, Mahmut Kandemir
+Bioinformatics Advances, Volume 2, Issue 1, 2022, vbac088, [ [paper](https://doi.org/10.1093/bioadv/vbac088) ] 
 
 - **Disk compression of k-mer sets.**  
 _Amatur Rahman, Rayan Chikhi and Paul Medvedev._  WABI 2020 (accepted)
+Algorithms for Molecular Biology, 16(10), 2021.
+An extended abstract appeared in WABI 2020, LIPIcs 16:1–16:18.
+[ [full version (journal)](https://doi.org/10.1186/s13015-021-00192-7), [conference](https://doi.org/10.4230/LIPIcs.WABI.2020.16) ]
+
 
 - **Representation of k-mer sets using spectrum-preserving string sets.**      
-_Amatur Rahman and Paul Medvedev._  RECOMB 2020, LNCS 12074:152-168. **(Best Paper Award)** [ [preprint] ](https://doi.org/10.1101/2020.01.07.896928)[ [talk] ](https://youtu.be/QJyTBjN71Pw)
+_Amatur Rahman and Paul Medvedev._  
+Journal of Computational Biology, 28(4):381-394, 2021.
+An extended abstract appeared in RECOMB 2020, LNCS 12074:152-168. **(Best Paper Award)** [ [preprint] ](https://doi.org/10.1101/2020.01.07.896928)[ [talk] ](https://youtu.be/QJyTBjN71Pw)
 
 - **kRISP-meR: A Reference-free Guide-RNA Design Tool for CRISPR/Cas9.**    
 _Mahmudur Rahman Hera, Amatur Rahman and Atif Hasan Rahman._ bioRxiv, 2019 
@@ -32,16 +50,10 @@ _Mahmudur Rahman Hera, Hua-Jun Hong, Amatur Rahman, Pei-Hsuan Tsai, Afia Afrin, 
 _Mahmudur Rahman Hera, Amatur Rahman, Afia Afrin, Md. Yusuf Sarwar Uddin, and Nalini Venkatasubramanian._ In Proceedings of 2017 International Conference on Networking, Systems and Security (NSysS), Dhaka, Bangladesh, 2017
 
 
-## Talks
-
-- **Representation of k-mer sets using spectrum-preserving string sets**   
-  - RECOMB 2020 (virtual conference) 
-  - Weekly Wednesday Wartik Genomics Lecture Series (WWWGLS) by [CCBB](https://www.ccbb.psu.edu/seminar/), Penn State.
-
 ## Softwares
 
 - [ESS-Compress](https://github.com/medvedevgroup/ESSCompress): compresses a set of k-mers for disk storage
 - [UST](https://github.com/medvedevgroup/UST): build a spectrum-preserving string set representation of a set of k-mers
 
 ## Contact Info
-Email : aur1111 "at" psu "dot" edu
+Email : aur1111 "at" psu "dot" edu, amatur003 "at" gmail "dot" com
