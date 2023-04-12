@@ -10,18 +10,18 @@ My most recent CV can be found [here](https://www.dropbox.com/s/f6qmz4na15q9ck3/
 
 You can also check my publications through [dblp](https://dblp.uni-trier.de/pers/hd/r/Rahman:Amatur) or [Google scholar](https://scholar.google.com/citations?hl=en&user=28hqEC4AAAAJ).
 
-- **Assembler artifacts include misassembly because of unsafe unitigs and under-assembly because of bidirected graphs** 
+- **Assembler artifacts include misassembly because of unsafe unitigs and under-assembly because of bidirected graphs.**    
 Amatur Rahman and Paul Medvedev
 Genome Research, 32:1-8, 2022.
 An abstract appeared in RECOMB 2022, LNCS 13278:377–379 (Alternative title: Uncovering hidden assembly artifacts: when unitigs are not safe and bidirected graphs are not helpful.)
 [ [paper (free version)](https://doi.org/10.1101/2022.01.20.477068), [paper (journal version)](https://doi.org/10.1101/gr.276601.122) ][ [talk] ](https://www.youtube.com/watch?v=VxvEOmKHLHM)
 
-- **The K-mer File Format: a standardized and compact disk representation of sets of k-mers** 
+- **The K-mer File Format: a standardized and compact disk representation of sets of k-mers.**    
 Y. Dufresne, T. Lemane, P. Marijon, P. Peterlongo, A. Rahman, M. Kokot, P. Medvedev, S. Deorowicz, and R. Chikhi
 Bioinformatics, btac528, 2022.
 [ [paper](https://doi.org/10.1093/bioinformatics/btac528) ]
 
-- **GPU-accelerated and pipelined methylation calling** 
+- **GPU-accelerated and pipelined methylation calling.**    
 Yilin Feng, Gulsum Gudukbay Akbulut, Xulong Tang, Jashwant Raj Gunasekaran, Amatur Rahman, Paul Medvedev, Mahmut Kandemir
 Bioinformatics Advances, Volume 2, Issue 1, 2022, vbac088, [ [paper](https://doi.org/10.1093/bioadv/vbac088) ] 
 
