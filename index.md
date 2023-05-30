@@ -1,8 +1,15 @@
+---
+---
+
 ## About me
 
 I am a PhD student working with with Dr. Paul Medvedev at the Department of Computer Science and Engineering, Pennsylvania State University. I defended my PhD thesis on May 26, 2023. Before joining Penn State, I obtained my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET).
 
-![That's me](/docs/assets/images/bw.jpeg?width=50px&button=false)
+{%
+  include figure.html
+  image="/docs/assets/images/bw.jpeg"
+  width="50%" 
+%}
 
 ## CV
 
@@ -66,9 +73,4 @@ _Mahmudur Rahman Hera, Amatur Rahman, Afia Afrin, Md. Yusuf Sarwar Uddin, and Na
 Email : aur1111 "at" psu "dot" edu, amatur003 "at" gmail "dot" com
 
 
-{%
-  include figure.html
-  image="/docs/assets/images/bw.jpeg"
-  caption="Biological Data Science Meeting, Cold Spring Harbor Laboratory, November 2022"
-  width="50%" 
-%}
+
