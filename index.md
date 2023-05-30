@@ -5,7 +5,7 @@ I am a PhD student working with with Dr. Paul Medvedev at the Department of Comp
 {%
   include figure.html
   image="/docs/assets/images/bw.jpeg"
-  width="50%" 
+  width="70%" 
 %}
 
 ## CV
