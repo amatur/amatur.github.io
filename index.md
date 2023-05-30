@@ -1,7 +1,7 @@
 ## About me
 
 I am a PhD student working with with Dr. Paul Medvedev at the Department of Computer Science and Engineering, Pennsylvania State University. I defended my PhD thesis on May 26, 2023. Before joining Penn State, I obtained my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET).
- 
+
 ## CV
 
 My most recent CV can be found [here](https://www.dropbox.com/s/u6u3t6juljzijhj/cv_amatur_may30_2023.pdf?dl=0) (last updated on May 30, 2023). 
