@@ -66,3 +66,9 @@ _Mahmudur Rahman Hera, Amatur Rahman, Afia Afrin, Md. Yusuf Sarwar Uddin, and Na
 Email : aur1111 "at" psu "dot" edu, amatur003 "at" gmail "dot" com
 
 
+{%
+  include figure.html
+  image="/docs/assets/images/bw.jpeg"
+  caption="Biological Data Science Meeting, Cold Spring Harbor Laboratory, November 2022"
+  width="50%" 
+%}
