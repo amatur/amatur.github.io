@@ -19,12 +19,7 @@
       "
     />
        <br>
-      <em>"{{ include.caption }}"</em>
+      {{ include.caption }}
         </p>  
   </a>
-  {%- if include.caption -%}
-  <figcaption class="figure_caption">
-    {{- include.caption | markdownify | remove: "<p>" | remove: "</p>" -}}
-  </figcaption>
-  {%- endif -%}
 </figure>
