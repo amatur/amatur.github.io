@@ -1,36 +1,40 @@
 ## About me
 
-I am a PhD student working with with Dr. Paul Medvedev at the Department of Computer Science and Engineering, Pennsylvania State University. Before joining Penn State, I obtained my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET).
+I am a PhD student working with with Dr. Paul Medvedev at the Department of Computer Science and Engineering, Pennsylvania State University. I defended my PhD thesis on May 26, 2023. Before joining Penn State, I obtained my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET).
 
 ## CV
 
-My most recent CV can be found [here](https://www.dropbox.com/s/f6qmz4na15q9ck3/cv_amatur_jul7.pdf?dl=0) (last updated on July 7, 2020). 
+My most recent CV can be found [here](https://www.dropbox.com/s/u6u3t6juljzijhj/cv_amatur_may30_2023.pdf?dl=0) (last updated on May 30, 2023). 
 
 ## Publications
 
 You can also check my publications through [dblp](https://dblp.uni-trier.de/pers/hd/r/Rahman:Amatur) or [Google scholar](https://scholar.google.com/citations?hl=en&user=28hqEC4AAAAJ).
 
+- **Compression algorithm for colored de Bruijn graphs.**    
+_Amatur Rahman, Yoann Dufresne and Paul Medvedev_  
+[ [paper (preprint)](https://doi.org/10.1101/2023.05.12.540616) ]
+
+
 - **Assembler artifacts include misassembly because of unsafe unitigs and under-assembly because of bidirected graphs.**    
-Amatur Rahman and Paul Medvedev
+_Amatur Rahman and Paul Medvedev_
 Genome Research, 32:1-8, 2022.
 An abstract appeared in RECOMB 2022, LNCS 13278:377–379 (Alternative title: Uncovering hidden assembly artifacts: when unitigs are not safe and bidirected graphs are not helpful.)
 [ [paper (free version)](https://doi.org/10.1101/2022.01.20.477068), [paper (journal version)](https://doi.org/10.1101/gr.276601.122) ][ [talk] ](https://www.youtube.com/watch?v=VxvEOmKHLHM)
 
 - **The K-mer File Format: a standardized and compact disk representation of sets of k-mers.**    
 Y. Dufresne, T. Lemane, P. Marijon, P. Peterlongo, A. Rahman, M. Kokot, P. Medvedev, S. Deorowicz, and R. Chikhi
-Bioinformatics, btac528, 2022.
+Bioinformatics, 2022.
 [ [paper](https://doi.org/10.1093/bioinformatics/btac528) ]
 
 - **GPU-accelerated and pipelined methylation calling.**    
 Yilin Feng, Gulsum Gudukbay Akbulut, Xulong Tang, Jashwant Raj Gunasekaran, Amatur Rahman, Paul Medvedev, Mahmut Kandemir
-Bioinformatics Advances, Volume 2, Issue 1, 2022, vbac088, [ [paper](https://doi.org/10.1093/bioadv/vbac088) ] 
+Bioinformatics Advances, Volume 2, Issue 1, 2022, [ [paper](https://doi.org/10.1093/bioadv/vbac088) ] 
 
 - **Disk compression of k-mer sets.**  
 _Amatur Rahman, Rayan Chikhi and Paul Medvedev._  WABI 2020 (accepted)
 Algorithms for Molecular Biology, 16(10), 2021.
 An extended abstract appeared in WABI 2020, LIPIcs 16:1–16:18.
 [ [full version (journal)](https://doi.org/10.1186/s13015-021-00192-7), [conference](https://doi.org/10.4230/LIPIcs.WABI.2020.16) ]
-
 
 - **Representation of k-mer sets using spectrum-preserving string sets.**      
 _Amatur Rahman and Paul Medvedev._  
@@ -52,8 +56,9 @@ _Mahmudur Rahman Hera, Amatur Rahman, Afia Afrin, Md. Yusuf Sarwar Uddin, and Na
 
 ## Softwares
 
-- [ESS-Compress](https://github.com/medvedevgroup/ESSCompress): compresses a set of k-mers for disk storage
-- [UST](https://github.com/medvedevgroup/UST): build a spectrum-preserving string set representation of a set of k-mers
+- [ESS-Color](https://github.com/medvedevgroup/ESSColor): a C++/snakemake based software that compresses colored de Bruijn graph
+- [ESS-Compress](https://github.com/medvedevgroup/ESSCompress): a C++ software to compress a set of k-mers for disk storage
+- [UST](https://github.com/medvedevgroup/UST): a C++ software to build a spectrum-preserving string set representation of a set of k-mers
 
 ## Contact Info
 Email : aur1111 "at" psu "dot" edu, amatur003 "at" gmail "dot" com
