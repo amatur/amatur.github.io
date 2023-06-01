@@ -11,7 +11,7 @@ I am a PhD student working with with Dr. Paul Medvedev at the Department of Comp
 
 ## CV
 
-My most recent CV can be found [here](https://www.dropbox.com/s/0ye01jqxn3gp8n7/cv_amatur_may30_2023.pdf?dl=0) (last updated on June 1, 2023). 
+My most recent CV can be found [here](https://www.dropbox.com/s/h5pe4b06ugj1t2i/cv_amatur_jun1_2023.pdf?dl=0) (last updated on June 1, 2023). 
 
 ## Publications
 
