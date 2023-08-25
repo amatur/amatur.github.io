@@ -1,6 +1,14 @@
-## About me
+## Research statement
 
-I am a PhD student working with with Dr. Paul Medvedev at the Department of Computer Science and Engineering, Pennsylvania State University. I defended my PhD thesis on May 26, 2023. Before joining Penn State, I obtained my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET).
+I am always open to work on new projects in algorithmic bioinformatics. With my experience in developing algorithms and pipelines for handling big datasets, I am capable of developing scalable and intuitive solutions that assist in biological studies. My background involves enhancing storage efficiency for sequence analysis tools and facilitating faster analysis of sequencing data. I am particularly inclined towards studying sequence similarities through k-mer based approaches, error-correction in assembly, and
+optimizing the performance of bioinformatics tools.
+
+## Bio
+
+I obtained my PhD from Department of Computer Science and Engineering, Pennsylvania State University on August 2023. Before joining Penn State, I obtained my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET). I also served as a lecturer in the CSE
+department at United International University, Bangladesh. During my PhD, I was a recipient of CBIOS
+Trainee Fellowship (CBIOS: Computation, Bioinformatics and Statistics, an NIH funded
+Predoctoral Training Program). 
 
 {%
   include figure.html
@@ -11,7 +19,7 @@ I am a PhD student working with with Dr. Paul Medvedev at the Department of Comp
 
 ## CV
 
-My most recent CV can be found [here](https://www.dropbox.com/s/h5pe4b06ugj1t2i/cv_amatur_jun1_2023.pdf?dl=0) (last updated on June 1, 2023). 
+My most recent CV can be found [here]([https://www.dropbox.com/s/h5pe4b06ugj1t2i/cv_amatur_jun1_2023.pdf?dl=0](https://www.dropbox.com/scl/fi/ub4rbwjnbmznvirfwhsor/cv_amatur_aug25_2023.pdf?rlkey=bvf4cnmxve5j39ncrksyr7mlh&dl=0) (last updated on August 25, 2023). 
 
 ## Publications
 
