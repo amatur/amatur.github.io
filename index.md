@@ -1,6 +1,6 @@
 ## Research statement
 
-I am always open to work on new projects in algorithmic bioinformatics. With my experience in developing algorithms and pipelines for handling big datasets, I am capable of developing scalable and intuitive solutions that assist in biological studies. My background involves enhancing storage efficiency for sequence analysis tools and facilitating faster analysis of sequencing data. I am particularly inclined towards studying sequence similarities through k-mer based approaches, error-correction in assembly, and
+I am always excited to work on open projects in algorithmic bioinformatics. With my experience in developing algorithms and pipelines for handling big datasets, I am capable of developing scalable and intuitive solutions that assist in biological studies. My background involves enhancing storage efficiency for sequence analysis tools and facilitating faster analysis of sequencing data. I am particularly inclined towards studying sequence similarities through k-mer based approaches, error-correction in assembly, and
 optimizing the performance of bioinformatics tools.
 
 ## Bio
@@ -19,7 +19,7 @@ Predoctoral Training Program).
 
 ## CV
 
-My most recent CV can be found [here]([https://www.dropbox.com/s/h5pe4b06ugj1t2i/cv_amatur_jun1_2023.pdf?dl=0](https://www.dropbox.com/scl/fi/ub4rbwjnbmznvirfwhsor/cv_amatur_aug25_2023.pdf?rlkey=bvf4cnmxve5j39ncrksyr7mlh&dl=0) (last updated on August 25, 2023). 
+My most recent CV can be found [here](https://www.dropbox.com/scl/fi/dkl7gyjply3cl9b6y7vke/cv_amatur_aug25_2023.pdf?rlkey=0mkrxd2w0tduwhce3701w1bc3&dl=0) (last updated on August 25, 2023). 
 
 ## Publications
 
