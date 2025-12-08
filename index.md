@@ -3,8 +3,6 @@ layout: default
 title: Amatur Rahman
 ---
 
-# Amatur Rahman
-
 Welcome! Use the links below to navigate:
 
 - [Research Statement](#research-statement)
@@ -18,15 +16,20 @@ Welcome! Use the links below to navigate:
 
 ## Research Statement
 
-I am always excited to work on open projects in algorithmic bioinformatics. With my experience in developing algorithms and pipelines for handling big datasets, I am capable of developing scalable and intuitive solutions that assist in biological studies. My background involves enhancing storage efficiency for sequence analysis tools and facilitating faster analysis of sequencing data. I am particularly inclined towards studying sequence similarities through k-mer based approaches, error-correction in assembly, and optimizing the performance of bioinformatics tools.
+I am always excited to work on open projects in algorithmic bioinformatics, evolutionary and population genetics. I develop scalable algorithms and pipelines for large-scale datasets, focusing on accelerating selection scans, k-mer–based compression, and analysis of sequence similarities. I also explore theoretical aspects of bioinformatics, including how tools interpret data and potential pitfalls in downstream analyses, to promote careful and accurate use of genetic and genomic data.
 
 ---
 
 ## Bio
 
-I obtained my PhD from Department of Computer Science and Engineering, Pennsylvania State University on August 2023. Before joining Penn State, I obtained my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET). I also served as a lecturer in the CSE department at United International University, Bangladesh. During my PhD, I was a recipient of CBIOS Trainee Fellowship.
+I am a postdoctoral scholar at Department of Biology, Pennsylvania State University, working with Dr. Zachary Szpiech on computational methods in population genetics. I obtained my PhD from Department of Computer Science and Engineering, Pennsylvania State University on August 2023. Before joining Penn State, I obtained my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET). I also served as a lecturer in the CSE department at United International University, Bangladesh. During my PhD, I was a recipient of CBIOS Trainee Fellowship.
 
-![CSHL Meeting](assets/images/bw.jpeg)
+{%
+  include figure.html
+  image="/docs/assets/images/bw.jpeg"
+  caption="Biological Data Science Meeting, Cold Spring Harbor Laboratory, November 2022"
+  width="70%" 
+%}
 
 ---
 
@@ -38,11 +41,23 @@ My most recent CV can be found [here](https://www.dropbox.com/scl/fi/dkl7gyjply3
 
 ## Publications
 
-You can also check my publications through [dblp](https://dblp.uni-trier.de/pers/hd/r/Rahman:Amatur) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=28hqEC4AAAAJ).
-
-## Publications
-
 You can also check my publications through [Google scholar](https://scholar.google.com/citations?hl=en&user=28hqEC4AAAAJ).
+
+- **EGGS: Empirical Genotype Generalizer for Samples.**  
+_T. Quinn Smith, Amatur Rahman, and Zachary A. Szpiech_  
+bioRxiv, 2025-10.  
+[ [paper](https://www.biorxiv.org/content/10.1101/2025.10) ]
+
+- **Selection scans and downstream analysis with selscan.**  
+_Amatur Rahman*, T. Quinn Smith*, and Zachary A. Szpiech_  
+bioRxiv, 2025-10. (Under revision at _Genome Biology and Evolution_)  
+(* joint first author)  
+[ [paper](https://www.biorxiv.org/content/10.1101/2025.10) ]
+
+- **Fast and memory-efficient dynamic programming approach for large-scale EHH-based selection scans.**  
+_Amatur Rahman, T. Quinn Smith, and Zachary A. Szpiech_  
+_Molecular Biology and Evolution_, 42(11):msaf275, 2025.  
+[ [paper](https://doi.org/10.1093/molbev/msaf275) ]
 
 - **Compression algorithm for colored de Bruijn graphs.**    
 _Amatur Rahman, Yoann Dufresne and Paul Medvedev_  
@@ -90,11 +105,12 @@ _Mahmudur Rahman Hera, Amatur Rahman, Afia Afrin, Md. Yusuf Sarwar Uddin, and Na
 
 ---
 
-## Software
+## Bioinformatics Software Development (Projects Led)
 
-- [ESS-Color](https://github.com/medvedevgroup/ESSColor)  
-- [ESS-Compress](https://github.com/medvedevgroup/ESSCompress)  
-- [UST](https://github.com/medvedevgroup/UST)
+- [selscan v3](https://github.com/szpiech/selscan) –  Fully redesigned and implemented EHH-based selection scans, achieving major improvements in speed, memory efficiency, and usability for downstream genomic analyses.
+- [ESS-Color](https://github.com/medvedevgroup/ESSColor) – C++/Snakemake software for compressing colored de Bruijn graphs.
+- [ESS-Compress](https://github.com/medvedevgroup/ESSCompress) – C++ tool to compress a set of k-mers for disk storage.
+- [UST](https://github.com/medvedevgroup/UST) – C++ software to build a spectrum-preserving string set representation of k-mer sets.
 
 ---
 
