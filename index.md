@@ -39,18 +39,13 @@ My most recent CV can be found [here](https://www.dropbox.com/scl/fi/dkl7gyjply3
 
 ---
 
-## Publications
+## Selected Publications
 
 You can also check my publications through [Google scholar](https://scholar.google.com/citations?hl=en&user=28hqEC4AAAAJ).
 
-- **EGGS: Empirical Genotype Generalizer for Samples.**  
-_T. Quinn Smith, Amatur Rahman, and Zachary A. Szpiech_  
-bioRxiv, 2025-10.  
-[ [paper](https://www.biorxiv.org/content/10.1101/2025.10) ]
-
 - **Selection scans and downstream analysis with selscan.**  
 _Amatur Rahman*, T. Quinn Smith*, and Zachary A. Szpiech_  
-bioRxiv, 2025-10. (Under revision at _Genome Biology and Evolution_)  
+bioRxiv, 2025-10. (Under revision at _Human Population Genetics and Genomics_)  
 (* joint first author)  
 [ [paper](https://www.biorxiv.org/content/10.1101/2025.10) ]
 
@@ -62,7 +57,6 @@ _Molecular Biology and Evolution_, 42(11):msaf275, 2025.
 - **Compression algorithm for colored de Bruijn graphs.**    
 _Amatur Rahman, Yoann Dufresne and Paul Medvedev_  
 [ [paper (preprint)](https://doi.org/10.1101/2023.05.12.540616) ]
-
 
 - **Assembler artifacts include misassembly because of unsafe unitigs and under-assembly because of bidirected graphs.**    
 _Amatur Rahman and Paul Medvedev_
@@ -89,9 +83,6 @@ An extended abstract appeared in WABI 2020, LIPIcs 16:1–16:18.
 _Amatur Rahman and Paul Medvedev._  
 Journal of Computational Biology, 28(4):381-394, 2021.
 An extended abstract appeared in RECOMB 2020, LNCS 12074:152-168. **(Best Paper Award)** [ [preprint] ](https://doi.org/10.1101/2020.01.07.896928)[ [talk] ](https://youtu.be/QJyTBjN71Pw)
-
-- **kRISP-meR: A Reference-free Guide-RNA Design Tool for CRISPR/Cas9.**    
-_Mahmudur Rahman Hera, Amatur Rahman and Atif Hasan Rahman._ bioRxiv, 2019 
 
 - **An Adaptive IoT Platform on Budgeted 3G Data Plans.**   
 _Mahmudur Rahman Hera, Amatur Rahman, Hua-Jun Hong, Li-Wen Pan, Md. Yusuf Sarwar Uddin, Nalini Venkatasubramanian, Cheng-Hsin Hsu._ Elsevier Journal of Systems Architecture, 2018
