@@ -35,7 +35,7 @@ I am a postdoctoral scholar at Department of Biology, Pennsylvania State Univers
 
 ## CV
 
-My most recent CV can be found [here]([https://www.dropbox.com/scl/fi/dkl7gyjply3cl9b6y7vke/cv_amatur_aug25_2023.pdf?rlkey=0mkrxd2w0tduwhce3701w1bc3&dl=0](https://www.dropbox.com/scl/fi/ajkg96gn8r58ci98tcjwu/cv_amatur_dec10_2025.pdf?rlkey=drz033881k3dnzk2mw8zcd9oe&dl=0)) (last updated December 10, 2025).
+My most recent CV can be found [here](https://www.dropbox.com/scl/fi/ajkg96gn8r58ci98tcjwu/cv_amatur_dec10_2025.pdf?rlkey=drz033881k3dnzk2mw8zcd9oe&dl=0) (last updated December 10, 2025).
 
 ---
 
